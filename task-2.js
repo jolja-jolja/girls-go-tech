@@ -1,11 +1,11 @@
-var Name = "Margareth";
-var Cats = 5;
-var true = crazy;
-var Cats = [Tiny, Pokey, Smokey, Finley, Stanley];
-var Pokey ={Cats: "Tiny", favoriteFood: [Whiskas, Cheese], Cats: "pokey", favoriteFood: [Chicken, Cream]};
-var Dogs ="";
-var Husbands = null;
-var Years to live = Name * 5;
+var text = "Margareth";
+var num = 5;
+var bool = true;
+var arr = [text, null, [], 1, false];
+var obj ={name: "Margareth", "is crazy": true}
+var und = undefined;
+var empty = null;
+var notAnumber = "text" * 5;
 
 
 
